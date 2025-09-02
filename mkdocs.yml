@@ -4,3 +4,4 @@ nav:
 docs_dir: docs
 plugins:
   - techdocs-core
+use_directory_urls: false
