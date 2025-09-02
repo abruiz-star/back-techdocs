@@ -1,4 +1,5 @@
 site_name: DOCUMENTACION
+site_url: https://abruiz-star.github.io/back-techdocs/
 nav:
   - Home: index.md
 docs_dir: docs
