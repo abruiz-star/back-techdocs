@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mi-servicio
-  description: Servicio de ejemplo
+  name: docs
+  description: Documentacion
   annotations:
     backstage.io/techdocs-ref: url:https://abruiz-star.github.io/back-techdocs/
 spec:
