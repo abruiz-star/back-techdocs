@@ -28,6 +28,8 @@ jobs:
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GHTOKEN}}
+          github_token: ${{ secrets.GHTOKEN }}
           publish_dir: ./site
           publish_branch: gh-pages
+          allow_empty_commit: true
+
