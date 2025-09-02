@@ -4,7 +4,7 @@ metadata:
   name: docs
   description: Documentacion
   annotations:
-    backstage.io/techdocs-ref: url:https://abruiz-star.github.io/back-techdocs/
+      backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: group:mecatronica
