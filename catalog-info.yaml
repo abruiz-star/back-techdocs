@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mi-servicio
+  description: Servicio de ejemplo
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/abruiz-star/back-techdocs
+spec:
+  type: service
+  owner: groups:mcatronica
+  lifecycle: production
