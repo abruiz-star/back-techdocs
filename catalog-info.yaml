@@ -7,5 +7,5 @@ metadata:
     backstage.io/techdocs-ref: url:https://abruiz-star.github.io/back-techdocs/
 spec:
   type: service
-  owner: groups:mecatronica
+  owner: group:mecatronica
   lifecycle: production
